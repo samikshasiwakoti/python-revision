@@ -15,4 +15,7 @@ print(name[-2:-4])
 print(name[::-1])
 
 
+name1 = "Samiksha"
+addres = "Jhapa"
+print(f"My name is {name1} and i am from {addres}") # this is called f string
 
